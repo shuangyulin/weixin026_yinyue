@@ -1,0 +1,264 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/gequleixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/gequleixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/gequleixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/gequxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/gequxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/gequxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/remengeshou/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/remengeshou/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/remengeshou/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/yinlezixun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yinlezixun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yinlezixun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discussgequxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussgequxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussgequxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discussremengeshou/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussremengeshou/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussremengeshou/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discussyinlezixun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussyinlezixun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussyinlezixun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white"
+		}
+	}
+					, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#F8B009",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "原创音乐小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#339999",
+		"selectedColor": "#000000",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/gequxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "歌曲信息"
+			}
+												,{
+				"pagePath": "pages/remengeshou/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "热门歌手"
+			}
+												,{
+				"pagePath": "pages/yinlezixun/list",
+				"iconPath": "/static/tabs/icon3.png",
+				"selectedIconPath": "/static/tabs/icon3_act.png",
+				"text": "音乐资讯"
+			}
+						
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
